@@ -8,9 +8,9 @@
 
 ## Building and Running
 
- * cmake ..
- * make
- * ./sdltest
+ * ``cmake ..``
+ * ``make``
+ * ``./sdltest``
   * press any key to stop
   * or close the window to stop
 
