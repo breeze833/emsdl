@@ -5,7 +5,7 @@
  *   Make sure the emsdk is ready
  *   Make sure the cmake is ready
  *   Make sure the emsdk environment is properly loaded
-     * e.g., ``source emsdk\_env.sh``
+     * e.g., ``source emsdk_env.sh``
 
 ## Building and Running
 
