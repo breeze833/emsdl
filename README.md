@@ -7,5 +7,5 @@ C/C++ code into JavaScript and WebAssembly.
 In this practice, we write a simple SDL program and prepare the CMakeLists.txt
 for building the native executable program and the WebAssembly program.
 
-Please refer to the readme files in ``build\_native`` and ``build\_webpage``
+Please refer to the readme files in ``build_native`` and ``build_webpage``
 for the building instructions.
